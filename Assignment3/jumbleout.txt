@@ -1,0 +1,4 @@
+A permutation of SWA that is a valid word is SAW.
+A permutation of SWA that is a valid word is WAS.
+A permutation of TAC that is a valid word is ACT.
+A permutation of DUCTAB that is a valid word is ABDUCT.
